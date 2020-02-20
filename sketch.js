@@ -32,12 +32,12 @@ function setup(){
  box4=new Box(575,270);
  box5=new Box(625,270);
  box6=new Box(600,230);
- box7=new Box(600,230);
- box8=new Box(600,230);
- box9=new Box(600,230);
- box10=new Box(600,230);
- box11=new Box(600,230);
- box12=new Box(600,230);
+ box7=new Box(550,135);
+ box8=new Box(600,135);
+ box9=new Box(650,135);
+ box10=new Box(575,85);
+ box11=new Box(625,85);
+ box12=new Box(550,35);
 
 
 
